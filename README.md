@@ -1,1 +1,1 @@
-# Open-and-Closed-Principle
+# SOLID-Principles
